@@ -75,7 +75,7 @@ from both medicinal plants
 
 ---
 
-## Authors
+## Author
 Dilnawaz Ansari
 
 ## Link
