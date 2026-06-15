@@ -2,7 +2,7 @@
 
 ## Published Research | IJPMN Journal | August 2024
 
-**Author:**  Dilnawaz Ansari
+**Author:** Dilnawaz Ansari  
 **Institution:** Institute of Biosciences and Technology, MGM University, Chhatrapati Sambhajinagar, India  
 **Journal:** International Journal of Public Mental Health and Neurosciences  
 **ISSN:** 2394-4668 | Volume 11, Issue 2, August 2024  
@@ -75,4 +75,8 @@ from both medicinal plants
 
 ---
 
-## Citation
+## Authors
+Dilnawaz Ansari
+
+## Link
+International Journal of Public Mental Health and Neurosciences https://vasishthgenomics.in/vol11-iss2
